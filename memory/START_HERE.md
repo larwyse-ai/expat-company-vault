@@ -7,6 +7,7 @@
 
 ## Project map
 - `projects/expat-operations.md`: COO operating systems, reporting and workstreams.
+- `projects/expat-food-costimator.md`: food-only recipe and menu costing tool.
 
 ## Maintenance
 Each project file: goal, current status, decisions, constraints, open items, source links, last reviewed date.
