@@ -1,0 +1,15 @@
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+*.sqlite
+*.db
+.DS_Store
+__pycache__/
+inbox/*
+!inbox/.gitkeep
+*.zip
